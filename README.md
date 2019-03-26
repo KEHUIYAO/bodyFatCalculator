@@ -1,4 +1,4 @@
-# Stat628 module1 
+# Body Fat Calculator
 
 ## Repository structure:
 
